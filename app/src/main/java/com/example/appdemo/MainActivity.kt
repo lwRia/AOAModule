@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
             }
         }
         val isValid = AOAService().isValid("riya@gmail.com")
-        Log.d(TAG, "onCreate: $isValid")
+        Log.d(TAG, "isValidEmail: $isValid")
     }
 }
 
