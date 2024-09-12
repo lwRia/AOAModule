@@ -20,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppDemo"
+rootProject.name = "EmailChecker"
 include ':app'
 include ':aoaModule'
